@@ -1,0 +1,4 @@
+Balance is: 175.0
+Balance is: 200.0
+Balance is: 175.0
+Balance is: 100.0
